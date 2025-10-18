@@ -1,0 +1,10 @@
+Alan Shearer,8327,20,20,100,A
+Lee Scott,9876,17,11,99,A
+Les Ferdinand,2983,15,17,92,A
+Matt Thompson,3724,19,11,81,A
+Sam Sturtivant,2345,14,15,77,A
+Ron Herrema,1212,14,17,66,B
+Jo Hyde,2344,6,15,55,C
+John Curry,1345,8,15,45,D
+Jake Hobbs,8439,10,11,43,D
+Gareth Southgate,9384,5,6,33,F
